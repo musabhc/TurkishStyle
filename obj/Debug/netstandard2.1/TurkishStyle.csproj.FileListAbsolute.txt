@@ -1,0 +1,9 @@
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\bin\Debug\netstandard2.1\TurkishStyle.deps.json
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\bin\Debug\netstandard2.1\TurkishStyle.dll
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\bin\Debug\netstandard2.1\TurkishStyle.pdb
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.AssemblyInfoInputs.cache
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.AssemblyInfo.cs
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.dll
+C:\Users\Musa\source\repos\TurkishStyle\TurkishStyle\obj\Debug\netstandard2.1\TurkishStyle.pdb

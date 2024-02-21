@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Musa\\source\\repos\\TurkishStyle\\TurkishStyle\\TurkishStyle.csproj",
-      "projectName": "TurkishStyle",
-      "projectPath": "C:\\Users\\Musa\\source\\repos\\TurkishStyle\\TurkishStyle\\TurkishStyle.csproj",
+      "projectUniqueName": "C:\\Users\\Musa\\source\\repos\\TurkishStyle\\TurkishStyle\\FunWithBalance.csproj",
+      "projectName": "FunWithBalance",
+      "projectPath": "C:\\Users\\Musa\\source\\repos\\TurkishStyle\\TurkishStyle\\FunWithBalance.csproj",
       "packagesPath": "C:\\Users\\Musa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Musa\\source\\repos\\TurkishStyle\\TurkishStyle\\obj\\",
       "projectStyle": "PackageReference",
